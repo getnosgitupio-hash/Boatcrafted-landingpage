@@ -46,7 +46,7 @@ export default function CircleOfAdventurersSection() {
                     key={idx}
                     src={img}
                     className="w-full h-[612px] flex-shrink-0 object-cover object-center"
-                    alt=""
+                    alt="Advance Feature"
                   />
                 ))}
               </div>

@@ -2,7 +2,7 @@ import React from "react";
 // Replace with your own icon path
 import warningIcon from "../p.png";
 import guestIcon from "../m1.png";
-import calendarIcon from "../m3.png";
+
 import travelersIcon from "../m2.png";
 
 export default function SemiSubmarineUrgencySection() {
@@ -43,7 +43,7 @@ export default function SemiSubmarineUrgencySection() {
           <div className="mt-6 rounded-xl bg-white/20  px-6 py-4 text-sm sm:text-base text-white text-center max-w-2xl mx-auto backdrop-blur-sm SM font-inter">
   If you're seeing this page right now, you're early,&nbsp;
   <a
-    href="#"
+    href="/contact"
     className="underline underline-offset-2 decoration-white/60 hover:decoration-white transition"
   >
     but not for long.
